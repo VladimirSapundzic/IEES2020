@@ -1,0 +1,8 @@
+Implementirati import
+Implementirati servis
+Napraviti klijenta koji ce sa servisa da cita podatke
+	- za vise ocene UI klijent
+Imamo pocetni kod koji treba da menjamo
+Eventualno dodati projekat koji ce biti klijent
+Imamo xmi fajl koji je gotov i od njega se moze krenuti
+-Prvo napisati model kodove, kako izgleda nas profil
